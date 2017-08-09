@@ -10,8 +10,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.  I also know GIS.p>
+     <h1>Capable & Unique Web Developer</h1>
+     <p>I'm a skilled developer specializing in Rails, AngularJS, and MongoDB.  </br>
+        I can also use my GIS skills to support additonal projects.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -72,4 +73,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
