@@ -55,7 +55,7 @@ var calculatePercent = function(seekBar, event) {
 
 ## Results
 
-I was successfully able to create an interactive player bar and seek bars that allow users to change the volume of the song and location within a song as well as play, pause, skip to the next song, and return to a previous song.  You can watch the next button inaction below.   
+I was successfully able to create an interactive player bar and seek bars that allow users to change the volume of the song and location within a song as well as play, pause, skip to the next song, and return to a previous song.  You can watch the next button in action below.   
 
 {:.center}
 ![]({{ site.baseurl }}/img/giphy.gif)
