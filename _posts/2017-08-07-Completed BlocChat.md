@@ -9,7 +9,7 @@ BlocChat was not only the most difficult project for me for technical reasons, b
 Upon the completion of BlocChat I have started thinking about other websites I would like to develop for my own personal gratification.  For example, my brother is one of the best jugglers on the planet holding numerous world records.  He even has his own page on the juggle wiki website seen below.  I would enjoy developing a website that displays his juggling skills where people could view pictures and videos of him juggling such as the gif below that displays a few seconds of his world record passing 11 balls with his juggling partner.  
 
 {:.center}
-![]({{ site.baseurl }}/img/Sammy Simon Juggle Wiki.PNG)
+![]({{ site.baseurl }}/img/Sammy_Simon_Juggle_Wiki.png)
 
 {:.center}
 ![]({{ site.baseurl }}/img/World Record.gif)
