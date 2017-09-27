@@ -1,0 +1,10 @@
+---
+layout: post
+title: Thoughts on a career in Web Development
+---
+As I have progressed through Bloc I have worked on various projects and learned a lot.  I worked on a project where I used Ruby on Rails to create an address book application that allows users to store addresses.  I worked on a project where I created a website that mimics reddit and allows users to create topics on which people can write posts and comment on each other’s posts. For my current project, I am creating a website that allows users to create various wikis to share information about various topics.  Through working on these projects, I have learned a lot.  I have learned the programing language framework combination that is Ruby on Rails.  I learned how to create models and controllers in Ruby on Rails.  I learned the advantages and disadvantages of using test driven development as opposed to using other methods for testing your program.  I learned how to create CRUD functionality for my websites.  I also learned less technical things about web development that are just as interesting.  
+
+{:.center}
+![]({{ site.baseurl }}/img/bloccit.png)
+
+Working on these projects provided me a simulation of a career in web development.  This simulation provided me the opportunity to mentally prepare for the career and determine if and why I will enjoy such a career.  One thing I enjoy is learning.  Continuous learning helps me keep my mind sharp, which I value, and prevents boredom.  That love of learning is why I chose to attend graduate school.  I want a career where I will continuously learn and web development is one such career.  New technologies and programming languages are constantly being invented and even if I mastered all the current programming languages and technologies, which would be difficult since there are so many, I will have to learn new ones.  A career where I must learn and think will prevent boredom and keep me engaged and happy as I will frequently receive the gratification from learning something new or solving a problem.
