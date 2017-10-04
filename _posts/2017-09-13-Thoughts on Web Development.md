@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on a career in Web Development
+title: Web Development
 ---
 As I have progressed through Bloc I have worked on various projects and learned a lot.  I worked on a project where I used Ruby on Rails to create an address book application that allows users to store addresses.  I worked on a project where I created a website that mimics reddit and allows users to create topics on which people can write posts and comment on each other’s posts. For my current project, I am creating a website that allows users to create various wikis to share information about various topics.  Through working on these projects, I have learned a lot.  I have learned the programing language framework combination that is Ruby on Rails.  I learned how to create models and controllers in Ruby on Rails.  I learned the advantages and disadvantages of using test driven development as opposed to using other methods for testing your program.  I learned how to create CRUD functionality for my websites.  I also learned less technical things about web development that are just as interesting.  
 
