@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Capable & Unique Web Developer</h1>
-     <p>I'm a skilled developer specializing in Rails, AngularJS, and MongoDB.  </br>
+     <p>I'm a skilled developer specializing in HTML, CSS, JavaScript, and Ruby on Rails.  </br>
         I can also use my GIS skills to support additonal projects.</p>
   header_text_feature_image:
   footer_text: >
