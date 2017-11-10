@@ -10,12 +10,12 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Capable & Unique Web Developer</h1>
-     <p>I'm a skilled developer specializing in using HTML, CSS, JavaScript, and Ruby on Rails to create websites and Alexa Skills. </br>
+     <h1>Skilled Web Developer</h1>
+     <p>Developer specializing in using HTML, CSS, JavaScript, and Ruby on Rails to create websites and Alexa Skills. </br>
         I can also use my GIS skills to support additonal projects</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>.
 
   # Icons
   rss: false
