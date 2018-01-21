@@ -9,7 +9,7 @@ short-description: Table tennis sports game featuring two-dimensional graphics.
 
 ## Summary
 
-There are many versions of pong online today.  This version has a home page that allows the user to choose between a one and two player game.  If the user chooses to play against the computer there are three levels to choose from, easy, medium and hard.  Pong was also the first website I created that I felt was ready for public consumption and therefore can be played online [here](http://aws-website-pong-czg7o.s3-website-us-east-1.amazonaws.com/).  
+There are many versions of pong online today.  This version has a home page that allows the user to choose between a one and two player game.  If the user chooses to play against the computer there are three levels to choose from, easy, medium and hard.  Pong was also the first website I created that I felt was ready for public consumption and therefore can be played online [here](https://d3gkh9werr34rn.cloudfront.net/).  
 
 {:.center}
 ![]({{ site.baseurl }}/img/pong home.png)     
