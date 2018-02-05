@@ -10,8 +10,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Skilled Web Developer</h1>
+     <h1>Skilled Web Developer and Designer</h1>
      <p>Developer specializing in using HTML, CSS, JavaScript, and Ruby on Rails to create websites and Alexa Skills. </br>
+        I enjoy working with designers and website owners to create websites with innovative designs. </br>
         I can also use my GIS skills to support additional projects</p>
   header_text_feature_image:
   footer_text: >
